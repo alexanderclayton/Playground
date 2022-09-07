@@ -14,4 +14,3 @@ This Playground is meant to mess around and apply the skills I've learned throug
 1. ls -la
 2. look for a .git/ folder.  If no such folder exists, it needs to be initialized.
 3. git init
-Folder should be ready to pull to :)
