@@ -7,3 +7,5 @@ This Playground is meant to mess around and apply the skills I've learned throug
 3. git push "SSH key copied from repo"
 
 9/7 01:15AM:  I wanted more practice with pushing changes to the repo so I figured I'd run it back.  I also added changes to the README to keep track of the progress I'm making :)
+
+9/8 02:10PM:  Just wanted another run at pulling and pushing with GitBash and GitHub.  SSH key is linked to GitHub, but the URL in HTTPS works as well.  In GitLab I'll just be pulling using the URL each time unless the instructors want something else...
