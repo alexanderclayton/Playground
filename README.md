@@ -28,3 +28,5 @@ Also, I ran into an issue when trying to push test branches from GitBash to GitH
 1. .class:  represented as class="[class-name]".  This will make everything in the specified section follow the CSS rules.
 2. #id:  represented as id="[id-name]".  Takes priority over class.
 3. *:  represented as [insert-later].  Takes priority over everything, applied to the entire index.html file.
+
+9/9 4:20PM:  Added index2.html and style2.css to mess around.  The originals were getting a bit cluttered.  
