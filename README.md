@@ -23,3 +23,8 @@ Also, I ran into an issue when trying to push test branches from GitBash to GitH
 9/8 10:20PM:  Played around with CSS styling.  Added/linked CSS stylesheet the following way:
 1. touch style.css
 2. In HTML file header:  <link rel="stylesheet" href="[path to style.css]>
+
+9/8 10:30PM:  CSS stands for Cascading Style Sheets.  The cascading is in reference to the order they show up on the style sheet.  The priority goes as follows:
+1. .class:  represented as class="[class-name]".  This will make everything in the specified section follow the CSS rules.
+2. #id:  represented as id="[id-name]".  Takes priority over class.
+3. *:  represented as [insert-later].  Takes priority over everything, applied to the entire index.html file.
