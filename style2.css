@@ -1,0 +1,18 @@
+p {
+    color: dodgerblue;
+    background-color: gold;
+    font-size: 5rem;
+}
+
+a {
+    color: purple;
+    background-color: gold;
+    font-size: 7rem;
+}
+
+#blue-black {
+    color: black;
+    background-color: blue;
+    font-size: 5rem;
+    font: bolder;
+}
