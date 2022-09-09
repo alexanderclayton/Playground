@@ -19,3 +19,7 @@ This Playground is meant to mess around and apply the skills I've learned throug
 1. clip < ~/. ssh/id_ed25519.pub
 
 Also, I ran into an issue when trying to push test branches from GitBash to GitHub.  It was saying something about an error "fatal: current branch has no upstream".  I did some research, and when I get the error there's a recommended command line to establish an upstream branch in GitHub.  I typed the new one in verbatim and it worked.
+
+9/8 10:20PM:  Played around with CSS styling.  Added/linked CSS stylesheet the following way:
+1. touch style.css
+2. In HTML file header:  <link rel="stylesheet" href="[path to style.css]>

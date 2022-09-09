@@ -3,6 +3,17 @@
     background-color: rgb(89, 89, 145); color: rgb(39, 2, 10);
 }
 
+#test2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#test3 {
+    
+    size: 10rem;
+    line-height: 10rem;
+}
+
 #achilles-photo {
-    size: 100px;
+    width: 20rem;
+    height: auto;
 }
